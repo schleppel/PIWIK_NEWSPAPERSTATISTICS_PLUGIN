@@ -1,0 +1,19 @@
+{
+  "name": "NewspaperStatistics",
+  "version": "0.1.0",
+  "description": "Piwik Pro test task",
+  "theme": false,
+  "require": {
+    "piwik": ">=2.16.2-b2"
+  },
+  "authors": [
+    {
+      "name": "Rafal Wisniewski",
+      "email": "rafaell_w@yahoo.com",
+      "homepage": ""
+    }
+  ],
+  "homepage": "",
+  "license": "GPL v3+",
+  "keywords": []
+}
